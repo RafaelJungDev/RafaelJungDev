@@ -1,9 +1,9 @@
 ### Hi there 👋
-## I'm Rafael Jung
+## I'm Rafael Jung 😊
 
-- I'm a front-end developer currently living in Brazil and graduating in Information Systems for UFMT.
+- 🏙️ I'm a front-end developer currently living in Brazil and graduating in Information Systems for UFMT.
 
-- 🌱 I’m currently learning Next.js, Node.js and Java. I'm trying to learn back-end and others recent tecnlogies, to in a near future become a Full-Stack developer ⚡.
+- 🌱 I'm currently learning Next.js, Node.js and Java. I'm trying to learn back-end and others recent technologies, to in a near future become a Full-Stack developer ⚡.
 
 
 - 📫 How to reach me: rafaeljdev@gmail.com
