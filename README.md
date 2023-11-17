@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Rafael Jung 😊
+## I'm Rafael Jung 
 
 - 🏙️ I'm a front-end developer currently living in Brazil and graduating in Information Systems for UFMT.
 
